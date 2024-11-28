@@ -1,5 +1,6 @@
 # CryptoTracker
 Auto_Crypto_API_Data_pulling_Project
+
 Project Goal:
 
 This project aims to collect cryptocurrency price data from the CoinMarketCap API, track price changes over different time intervals, and visualize the data to identify potential trends.
